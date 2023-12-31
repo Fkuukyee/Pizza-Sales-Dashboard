@@ -2,6 +2,27 @@
 This project analyzes key performance indicators form a pizza sales data to gain insights into the business performance such as sales performance, customer spending behavior, and operational efficiency. This was done by creating KPI's and Charts on a Dashboard in Power BI with SQL connection.
 
 ## Table of content
+[PROBLEM STATEMENT](problem_statement)
+
+[KPI Requirements](kpi_requirements)
+
+[Charts Requirements](charts_requirements)
+
+[SOFTWARES USED](softwares_used)
+
+[DATA SOURCE](data_source)
+
+[IMPORT DATA INTO MS SQL SERVER](import_data_into_ms_sql_server)
+
+[SQL Queries](sql_queries)
+
+[CONNECTING POWER BI TO MS SQL Database](connecting_power_bi_to_ms_sql_database)
+
+[VISUALIZATION AND DASHBOARD](visualization_and_dashboard)
+
+[The Home page](the_home_page)
+
+[The Best/Worst sellers page](thebest/worst_sellers_page)
 
 ## PROBLEM STATEMENT
 ### KPI Requirements
@@ -25,7 +46,7 @@ To visualize various aspects of the pizza sales data to gain insights and unders
 
 These charts are designed to provide a visual representation of sales trends and category performance, which can inform business decisions and strategy adjustments.
 
-## SOFTWARES USED TO DEVELOPTHE REPORT
+## SOFTWARES USED
   - Power BI - Version: 2.116.966.0, 64-bit
   - MS SQL Server – 19.0.2
   - Excel 
