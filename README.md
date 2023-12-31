@@ -114,7 +114,8 @@ The final dashboards are shown below:
 ![image](https://github.com/Fkuukyee/Pizza-Sales-Dashboard/assets/147086232/34e292fe-b144-47ee-bd2e-489b9e04ecb0)
 
 ### The Best/Worst sellers page
-![image](https://github.com/Fkuukyee/Pizza-Sales-Dashboard/assets/147086232/c2d43d04-5d95-4091-920c-2d35e215c02d)
+![image](https://github.com/Fkuukyee/Pizza-Sales-Dashboard/assets/147086232/11bd820e-0f4c-45da-9009-c4de8a890cf8)
+
 
 
 ## INSIGHTS
